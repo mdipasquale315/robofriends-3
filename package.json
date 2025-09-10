@@ -1,7 +1,7 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
-  "homepage": "https://mdipasquale315.github.io/robofriends-vite",
+  "homepage": "https://mdipasquale315.github.io/robofriends-3",
   "private": true,
   "dependencies": {
     "react": "^18.3.1",
