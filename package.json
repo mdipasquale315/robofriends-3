@@ -1,7 +1,11 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
-  "homepage": "https://mdipasquale315.github.io/Robofriends-3",
+<<<<<<< HEAD
+  "homepage": "https://mdipasquale315.github.io/Robofriends-online",
+=======
+  "homepage": "https://mdipasquale315.github.io/robofriends-online",
+>>>>>>> b816f8b08641e493f1b206254875207c18b207aa
   "private": true,
   "dependencies": {
     "gh-pages": "^6.3.0",
